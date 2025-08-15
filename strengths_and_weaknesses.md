@@ -3,3 +3,4 @@
 - fast
 
 # Weaknesses
+- not completely easy
